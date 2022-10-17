@@ -39,4 +39,9 @@
         "name": "Raunak Jain",
         "description": "A Frontend developer in HTML,CSS,JS"
     },
+    {
+        "id": 7,
+        "name": "Devansh Jain",
+        "description": "A Fullstack developer in HTML,CSS,JS"
+    },
 ]
